@@ -9,12 +9,13 @@ body {
 #container {
   margin: 0 auto;
   margin-top: 20px;
-  border: solid 1px;
+  border: transparent;
   height: 220px;
   width: 350px;
   padding: 15px;
   border-radius: 10px;
   background-color: rgb(209, 188, 2);
+  box-shadow: 5px 5px 5px 2px rgb(34 34 34);
 }
 
 #container h1 {
@@ -60,12 +61,13 @@ body {
   margin: 0 auto;
   margin-top: 20px;
   margin-top: 20px;
-  border: solid 1px;
+  border: transparent;
   height: 220px;
   width: 360px;
   padding: 15px;
   border-radius: 10px;
   background-color: rgb(209, 188, 2);
+  box-shadow: 5px 5px 5px 2px rgb(34 34 34);
 }
 
 #container2 h1 {
@@ -89,12 +91,13 @@ hr {
 #container3 {
   margin: 0 auto;
   margin-top: 20px;
-  border: solid 1px;
+  border: transparent;
   height: 220px;
   width: 360px;
   padding: 15px;
   border-radius: 10px;
   background-color: rgb(209, 188, 2);
+  box-shadow: 5px 5px 5px 2px rgb(34 34 34);
 }
 
 #container3 h1 {
@@ -105,12 +108,13 @@ hr {
 #container4 {
   margin: 0 auto;
   margin-top: 20px;
-  border: solid 1px;
+  border: transparent;
   height: 220px;
   width: 360px;
   padding: 15px;
   border-radius: 10px;
   background-color: rgb(209, 188, 2);
+  box-shadow: 5px 5px 5px 2px rgb(34 34 34);
 }
 
 #container4 h1 {
@@ -129,13 +133,14 @@ hr {
 #container5 {
   margin: 0 auto;
   margin-top: 20px;
-  border: solid 1px;
+  border: transparent;
   height: 220px;
   width: 360px;
   padding: 15px;
   border-radius: 10px;
   margin-bottom: 50px;
   background-color: rgb(209, 188, 2);
+  box-shadow: 5px 5px 5px 2px rgb(34 34 34);
 }
 
 #formatacao5 {
